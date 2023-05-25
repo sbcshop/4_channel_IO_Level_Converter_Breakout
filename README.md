@@ -14,8 +14,8 @@ High Voltage (HV) inputs are located on both sides of the board and range in vol
  - The HVGND pin on the HV INPUT side is connected to the HV ground.
  - On the LV OUTPUT side, connect your LV power source to the LVIN pin.
  - Your LV ground should be connected to the LVGND pin on the LV Output side.
- - Any HV output signals should be connected to pins 1 through 8 on the HV INPUT side.
- - Pins 1 through 8 on the LV OUTPUT side should be connected to any microcontroller or LV input.
+ - Any HV output signals should be connected to pins 1 through 4 on the HV INPUT side.
+ - Pins 1 through 4 on the LV OUTPUT side should be connected to any microcontroller or LV input.
 
 ### Absolute Maximum Scores:
 - HVIN Supply Voltage: 5 to 24 VDC
